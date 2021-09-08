@@ -1,0 +1,28 @@
+{
+  "name": "@computnik/interview-prep",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Interview Preparation",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computnik/interview-prep.git"
+  },
+  "keywords": [
+    "interview",
+    "coding",
+    "geeks-for-geeks",
+    "leetcode"
+  ],
+  "author": "Nikhil Motiani <motianinikhil@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/computnik/interview-prep/issues"
+  },
+  "homepage": "https://github.com/computnik/interview-prep#readme",
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  }
+}

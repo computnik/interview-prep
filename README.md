@@ -1,1 +1,1 @@
-# interview-prep
+# Computnik's Interview Prep Guide
